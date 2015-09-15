@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[LUKENPR]]></title>
-  <link href="http://lukenpr.github.io/lukenpr.com/atom.xml" rel="self"/>
-  <link href="http://lukenpr.github.io/lukenpr.com/"/>
-  <updated>2015-09-15T17:35:54+10:00</updated>
-  <id>http://lukenpr.github.io/lukenpr.com/</id>
+  <link href="http://lukenpr.com/atom.xml" rel="self"/>
+  <link href="http://lukenpr.com/"/>
+  <updated>2015-09-15T17:44:21+10:00</updated>
+  <id>http://lukenpr.com/</id>
   <author>
     <name><![CDATA[Luke Martin]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
-    <link href="http://lukenpr.github.io/lukenpr.com/blog/2015/09/15/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <link href="http://lukenpr.com/2015/09/15/zombie-ninjas-attack-a-survivors-retrospective/"/>
     <updated>2015-09-15T17:30:51+10:00</updated>
-    <id>http://lukenpr.github.io/lukenpr.com/blog/2015/09/15/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <id>http://lukenpr.com/2015/09/15/zombie-ninjas-attack-a-survivors-retrospective</id>
     <content type="html"><![CDATA[<p>Take it from me, you don’t want to see what I look like when I’ve woken up.</p>
 ]]></content>
   </entry>
