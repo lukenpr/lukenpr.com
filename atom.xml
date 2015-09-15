@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[lukenpr]]></title>
+  <title><![CDATA[LUKENPR]]></title>
   <link href="http://lukenpr.com/atom.xml" rel="self"/>
   <link href="http://lukenpr.com/"/>
-  <updated>2015-09-15T18:10:19+10:00</updated>
+  <updated>2015-09-15T18:12:29+10:00</updated>
   <id>http://lukenpr.com/</id>
   <author>
     <name><![CDATA[Luke Martin]]></name>
