@@ -797,6 +797,9 @@ article .entry-content .video-container iframe, article .entry-content .video-co
     /* margin-left: 200px;*/
     padding: 15px 0;
 }
+.archives .year {
+  clear:both;
+}
 @media screen and (max-width: 600px) {
     .archives article {
     margin-left: 0;
