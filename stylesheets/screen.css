@@ -808,7 +808,8 @@ article .entry-content .video-container iframe, article .entry-content .video-co
 }
 }.archives article .title {
     margin-bottom: 0;
-    font-size:20px;
+    font-size:14px;
+    text-align: left;
 }
 .archives article .meta {
     line-height: 2;
