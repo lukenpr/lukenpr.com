@@ -739,7 +739,6 @@ article .entry-content .video-container iframe, article .entry-content .video-co
     color: #666;
 }
 .post .meta .date, .post .meta .tags, .post .meta .comments {
-    padding-left: 30px;
     position: relative;
 }
 .post .meta .date:before, .post .meta .tags:before, .post .meta .comments:before {
