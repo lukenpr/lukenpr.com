@@ -780,6 +780,7 @@ article .entry-content .video-container iframe, article .entry-content .video-co
     top: 0;
     padding-top: 15px;
     border-top: 1px solid #fff;
+    padding-bottom: 12px;
 }
 .archives .year:before {
     content: "";
