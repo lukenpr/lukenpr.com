@@ -777,6 +777,7 @@ article .entry-content .video-container iframe, article .entry-content .video-co
 .archives .year {
     line-height: 35px;
     width: auto;
+    display: block;
     position: absolute;
     top: 0;
     padding-top: 15px;
