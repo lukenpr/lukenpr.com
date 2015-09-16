@@ -720,7 +720,7 @@ article .entry-content .video-container iframe, article .entry-content .video-co
     line-height: 2;
     font-size: 0.9em;
     color: #999;
-    width: 170px;
+    width: auto;
 }
 @media screen and (max-width: 800px) {
     .post .meta {
