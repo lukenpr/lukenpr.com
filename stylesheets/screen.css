@@ -807,6 +807,7 @@ article .entry-content .video-container iframe, article .entry-content .video-co
 }
 }.archives article .title {
     margin-bottom: 0;
+    font-size:20px;
 }
 .archives article .meta {
     line-height: 2;
