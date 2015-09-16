@@ -386,7 +386,7 @@ a {
     right: 125px;
 }
 #sub-nav .search input[type="text"] {
-    background: #f2f2f2;
+    background: #fff;
     color: #999;
     border: 1px solid #ddd;
     font: 13px "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -407,8 +407,7 @@ a {
     outline: none;
 }
 #sub-nav .social {
-    float: left;
-    margin-right: 15px;
+    display:none;
 }
 @media screen and (max-width: 1040px) {
     #sub-nav .social {
