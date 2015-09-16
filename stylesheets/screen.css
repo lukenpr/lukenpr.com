@@ -776,7 +776,7 @@ article .entry-content .video-container iframe, article .entry-content .video-co
 }
 .archives .year {
     line-height: 35px;
-    width: 200px;
+    width: auto;
     position: absolute;
     top: 0;
     padding-top: 15px;
@@ -796,9 +796,6 @@ article .entry-content .video-container iframe, article .entry-content .video-co
 }.archives article {
     /* margin-left: 200px;*/
     padding: 15px 0;
-}
-.archives .year {
-  clear:both;
 }
 @media screen and (max-width: 600px) {
     .archives article {
